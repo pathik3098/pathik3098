@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @pathik3098
+- 👋 Hi, I’m Pathik patel
 - 👀 I’m interested in Web and Full Stack Development
-- 🌱 I’m currently improving my DSA skills
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently improving my DSA skills and Learning ML
 - 📫 How to reach me https://www.linkedin.com/in/pathik-patel-60b772149/
 
 <!---
